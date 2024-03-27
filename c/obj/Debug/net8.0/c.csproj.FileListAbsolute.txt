@@ -1,0 +1,15 @@
+/workspaces/03_calculator/c/bin/Debug/net8.0/c
+/workspaces/03_calculator/c/bin/Debug/net8.0/c.deps.json
+/workspaces/03_calculator/c/bin/Debug/net8.0/c.runtimeconfig.json
+/workspaces/03_calculator/c/bin/Debug/net8.0/c.dll
+/workspaces/03_calculator/c/bin/Debug/net8.0/c.pdb
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.AssemblyInfoInputs.cache
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.AssemblyInfo.cs
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.csproj.CoreCompileInputs.cache
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.sourcelink.json
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.dll
+/workspaces/03_calculator/c/obj/Debug/net8.0/refint/c.dll
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.pdb
+/workspaces/03_calculator/c/obj/Debug/net8.0/c.genruntimeconfig.cache
+/workspaces/03_calculator/c/obj/Debug/net8.0/ref/c.dll
